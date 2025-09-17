@@ -9,3 +9,12 @@ h2{
 } 
 
 p{font-size: 18px;}
+
+img{
+    width: 40%; height: 50%;
+    mix-blend-mode: multiply;
+}
+
+body {
+  background-color: lightblue;
+}
